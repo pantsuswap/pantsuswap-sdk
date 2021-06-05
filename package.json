@@ -1,16 +1,16 @@
 {
-    "name": "@marmeladeswap-libs/sdk",
+    "name": "@cherokee-libs/sdk",
     "license": "MIT",
     "version": "2.2.0",
-    "description": "🛠 An SDK for building applications on top of marmeladeswap.",
+    "description": "🛠 An SDK for building applications on top of cherokee.",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
     "files": [
         "dist"
     ],
-    "repository": "https://github.com/marmeladeswap/marmelade-sdk.git",
+    "repository": "https://github.com/cherokeefinance/cherokee-sdk.git",
     "keywords": [
-        "marmeladeswap",
+        "cherokee",
         "ethereum"
     ],
     "module": "dist/sdk.esm.js",
